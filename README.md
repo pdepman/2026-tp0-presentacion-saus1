@@ -1,1 +1,4 @@
-# 2026-tp0-presentacion-saus1
+# Informacion Personal
+![@][def]
+
+[def]: TP0/ser.jpg
